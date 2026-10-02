@@ -1,0 +1,7 @@
+CREATE TABLE kutyak(
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nev VARCHAR(64) NOT NULL,
+    kor INT CHECK (kor < 30),
+    nem VARCHAR(20) DEFAULT 'kan',
+    megjegyzes VARCHAR(500)
+);
