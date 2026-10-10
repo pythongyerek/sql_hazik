@@ -30,7 +30,7 @@ VALUES
 INSERT INTO tulajdonosok (szgk_id, nev, telefon, lakcim)
 VALUES
 (1, 'Hakuna Matata', '+36-30-988-8444', '1055 Budapest, Kossuth Lajos tér 1-3'),
-(2, 'Leinemann International', '+36-20-276-2470', '340 PARK AVENUE, NYC, NEW YORK, 10154');
+(2, 'Leinemann International', '+36-20-067-4209', '340 PARK AVENUE, NYC, NEW YORK, 10154');
 
 -- 2. feladat
 
